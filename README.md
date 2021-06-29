@@ -10,7 +10,7 @@
 </h2>
 <h2 align = "center">About Me</h2>
 
-I'm programming in Lua. I will be glad if you join both of my discord servers. My main language is Russian, know English at school level. Trying to become popular.<br>
+I'm programming in Lua. I will be glad if you join both of my discord servers. My main language is Russian, know English at school level. Trying to become popular. Like to watch the animated series "Helluva Boss", Communicating in discord almost all day.<br>
 _Как я уже выше написал, я русскоговорящий, именно поэтому вы можете общаться со мной на русском_
 
 <h2 align = "center">Information</h2>
